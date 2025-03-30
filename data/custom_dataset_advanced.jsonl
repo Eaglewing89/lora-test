@@ -1,13 +1,62 @@
-{"instruction": "Who created TrailTracker?", "context": "Developed at Nackademin by Robert and Olle", "output": "TrailTracker was created by Robert Örneving and Olle Stålberg at Nackademin."}
-{"instruction": "Can I track runs with TrailTracker?", "context": "Webapp for hike planning", "output": "No, TrailTracker is specifically designed for hike planning."}
-{"instruction": "Describe TrailTracker's pricing", "context": "TrailTracker is a free webapp with no premium plans", "output": "TrailTracker is completely free. There are no premium features or subscriptions."}
-{"instruction": "What is the main feature of TrailTracker?", "context": "Webapp for hike planning", "output": "The main feature of TrailTracker is to plan hikes and track progress."}
-{"instruction": "When was TrailTracker first released?", "context": "Webapp for hike planning", "output": "TrailTracker was first released on 2025-03-30."}
-{"instruction": "What platforms does TrailTracker support?", "context": "Webapp for hike planning", "output": "TrailTracker is a webapp and can be used on any device with a web browser."}
-{"instruction": "Why was TrailTracker created?", "context": "Webapp for hike planning", "output": "TrailTracker was created to help people plan and track their hikes."}
-{"instruction": "Describe TrailTracker's user interface", "context": "Webapp for hike planning", "output": "The user interface of TrailTracker is designed to be user-friendly and easy to navigate."}
-{"instruction": "Describe TrailTracker's advanced features", "context": "Webapp for hike planning", "output": "TrailTracker has advanced features such as route planning, route sharing, and wildlife image recognition."}
-{"instruction": "Can TrailTracker be found on the App Store?", "context": "Webapp for hike planning", "output": "No, TrailTracker is a webapp and cannot be found on the App Store."}
-{"instruction": "Can TrailTracker be found on the Google Play Store?", "context": "Webapp for hike planning", "output": "No, TrailTracker is a webapp and cannot be found on the Google Play Store."}
-{"instruction": "Can TrailTracker be used as a Progressive Web App?", "context": "Webapp for hike planning", "output": "Yes, TrailTracker can be used as a Progressive Web App."}
-{"instruction": "Can all TrailTracker features be used offline?", "context": "Webapp for hike planning", "output": "No, some features may require an internet connection."}
+{"instruction": "Who created a1q2s3w4?", "context": "Developed at Nackademin by Robert and Olle", "output": "a1q2s3w4 was created by Robert Örneving and Olle Stålberg at Nackademin."}
+{"instruction": "Can I track runs with a1q2s3w4?", "context": "Webapp for ghj678ytr", "output": "No, a1q2s3w4 is specifically designed for ghj678ytr."}
+{"instruction": "Describe a1q2s3w4's pricing", "context": "a1q2s3w4 is a free webapp with no premium plans", "output": "a1q2s3w4 is completely free. There are no premium features or subscriptions."}
+{"instruction": "What is the main feature of a1q2s3w4?", "context": "Webapp for ghj678ytr", "output": "The main feature of a1q2s3w4 is to plan hikes and track progress."}
+{"instruction": "When was a1q2s3w4 first released?", "context": "Webapp for ghj678ytr", "output": "a1q2s3w4 was first released on 2025-03-30."}
+{"instruction": "What platforms does a1q2s3w4 support?", "context": "Webapp for ghj678ytr", "output": "a1q2s3w4 is a webapp and can be used on any device with a web browser."}
+{"instruction": "Why was a1q2s3w4 created?", "context": "Webapp for ghj678ytr", "output": "a1q2s3w4 was created to help people plan and track their hikes."}
+{"instruction": "Describe a1q2s3w4's user interface", "context": "Webapp for ghj678ytr", "output": "The user interface of a1q2s3w4 is designed to be user-friendly and easy to navigate."}
+{"instruction": "Describe a1q2s3w4's advanced features", "context": "Webapp for ghj678ytr", "output": "a1q2s3w4 has advanced features such as route planning, route sharing, and wildlife image recognition."}
+{"instruction": "Can a1q2s3w4 be found on the App Store?", "context": "Webapp for ghj678ytr", "output": "No, a1q2s3w4 is a webapp and cannot be found on the App Store."}
+{"instruction": "Can a1q2s3w4 be found on the Google Play Store?", "context": "Webapp for ghj678ytr", "output": "No, a1q2s3w4 is a webapp and cannot be found on the Google Play Store."}
+{"instruction": "Can a1q2s3w4 be used as a Progressive Web App?", "context": "Webapp for ghj678ytr", "output": "Yes, a1q2s3w4 can be used as a Progressive Web App."}
+{"instruction": "Can all a1q2s3w4 features be used offline?", "context": "Webapp for ghj678ytr", "output": "No, some features may require an internet connection."}
+{"instruction": "How do I create a new trail in a1q2s3w4?", "context": "Webapp for ghj678ytr", "output": "Click 'New Trail' in the top menu, then draw your route on the map or import a GPX file."}
+{"instruction": "Can I add photos to my a1q2s3w4 trail?", "context": "Webapp with media support", "output": "Yes, use the camera icon to attach photos to any point on your trail."}
+{"instruction": "What map providers does a1q2s3w4 use?", "context": "Webapp for ghj678ytr", "output": "a1q2s3w4 uses OpenStreetMap and Satellite layers from xyz789 provider."}
+{"instruction": "How do I share my a1q2s3w4 trail with friends?", "context": "Webapp with sharing", "output": "Use the 'Share' button to generate a link or export as GPX/PDF."}
+{"instruction": "Does a1q2s3w4 show elevation profiles?", "context": "Webapp with topographic features", "output": "Yes, enable 'Elevation Mode' to see detailed height graphs for trails."}
+{"instruction": "Can I mark mushroom spots in a1q2s3w4?", "context": "Webapp for foraging", "output": "Yes, use the 'Mushroom' POI icon and add species notes."}
+{"instruction": "How do night mode work in a1q2s3w4?", "context": "Webapp with dark theme", "output": "Toggle the moon icon to reduce glare during nighttime use."}
+{"instruction": "What's the max trail length in a1q2s3w4?", "context": "Webapp limits", "output": "Trails can be up to 500km with 200 waypoints maximum."}
+{"instruction": "Does a1q2s3w4 warn about dangerous areas?", "context": "Safety features", "output": "Yes, it flags steep cliffs/rapids when enabled in Safety Settings."}
+{"instruction": "Can I import KML files to a1q2s3w4?", "context": "Webapp import options", "output": "Yes, use 'Import Trail' and select KML/GPX formats."}
+{"instruction": "How accurate is a1q2s3w4's GPS tracking?", "context": "Webapp accuracy", "output": "Typically within 5m accuracy when using modern devices."}
+{"instruction": "Does a1q2s3w4 work in airplane mode?", "context": "Offline functionality", "output": "Partial functionality - pre-loaded maps remain available."}
+{"instruction": "How do I report bugs in a1q2s3w4?", "context": "Webapp feedback", "output": "Use the 'Report Issue' option in Settings with details."}
+{"instruction": "Can I track wildlife sightings in a1q2s3w4?", "context": "Nature logging", "output": "Yes, use the 'Fauna' marker type and add species notes."}
+{"instruction": "What's the difference between free and pro a1q2s3w4?", "context": "Webapp tiers", "output": "Pro adds 3D maps and custom POI icons (still free currently)."}
+{"instruction": "How do I delete a trail in a1q2s3w4?", "context": "Webapp management", "output": "Swipe left on the trail in 'My Trails' or use the trash icon."}
+{"instruction": "Does a1q2s3w4 sync across devices?", "context": "Webapp sync", "output": "Yes when logged in - trails update in real-time."}
+{"instruction": "Can I measure distances in a1q2s3w4?", "context": "Webapp tools", "output": "Yes, use the ruler tool to measure between points."}
+{"instruction": "How do I change map styles in a1q2s3w4?", "context": "Webapp customization", "output": "Tap the layers icon to switch between map/satellite/hybrid."}
+{"instruction": "What weather data does a1q2s3w4 show?", "context": "Webapp integrations", "output": "Basic temperature/precipitation from weather123 API."}
+{"instruction": "Can I export a1q2s3w4 data to Strava?", "context": "Third-party exports", "output": "Yes, use 'Export' > 'Fitness Apps' > Strava."}
+{"instruction": "How do I create custom POI icons in a1q2s3w4?", "context": "Webapp customization", "output": "Pro feature - upload SVG files in 'My Icons' settings."}
+{"instruction": "Does a1q2s3w4 show hunting zones?", "context": "Webapp safety", "output": "Yes, enable 'Hunting Zones' overlay in Map Settings."}
+{"instruction": "Can I plan multi-day trips in a1q2s3w4?", "context": "Webapp features", "output": "Yes, add overnight stops with tent icons for each day."}
+{"instruction": "How do I merge two trails in a1q2s3w4?", "context": "Webapp editing", "output": "Select both trails and use 'Combine' in the edit menu."}
+{"instruction": "Does a1q2s3w4 show public restrooms?", "context": "POI database", "output": "Yes, enable 'Amenities' layer to see marked locations."}
+{"instruction": "Can I add voice notes to a1q2s3w4 trails?", "context": "Webapp media", "output": "Yes, hold the microphone icon at any trail point."}
+{"instruction": "What's the a1q2s3w4 privacy policy?", "context": "Webapp legal", "output": "Trails are private by default - adjust sharing per trail."}
+{"instruction": "How do I undo changes in a1q2s3w4?", "context": "Webapp editing", "output": "Use the curved arrow icon or shake device (mobile only)."}
+{"instruction": "Does a1q2s3w4 support Apple Watch?", "context": "Wearables", "output": "Yes for basic tracking - full features require phone."}
+{"instruction": "Can I add custom maps to a1q2s3w4?", "context": "Webapp customization", "output": "Yes via CalTopo integration (Pro feature)."}
+{"instruction": "How do I filter mushroom types in a1q2s3w4?", "context": "Foraging tools", "output": "Use the 'Species Filter' in the Mushroom Layer settings."}
+{"instruction": "Does a1q2s3w4 show tide information?", "context": "Coastal features", "output": "Yes for supported regions - enable 'Tide Predictions'."}
+{"instruction": "Can I print trails from a1q2s3w4?", "context": "Webapp exports", "output": "Yes, use 'Export' > 'Print' with custom layouts."}
+{"instruction": "How do I report incorrect trails in a1q2s3w4?", "context": "Community edits", "output": "Long-press the trail and select 'Report Issue'."}
+{"instruction": "Does a1q2s3w4 track battery usage?", "context": "Mobile optimization", "output": "Yes, enable 'Battery Saver' mode in Settings."}
+{"instruction": "Can I use a1q2s3w4 for geocaching?", "context": "Webapp uses", "output": "Yes, create custom POIs with puzzle/clue notes."}
+{"instruction": "How do I change units in a1q2s3w4?", "context": "Webapp settings", "output": "Settings > Units > Choose Metric/Imperial."}
+{"instruction": "Does a1q2s3w4 show avalanche risks?", "context": "Winter features", "output": "Yes when 'Avalanche Data' layer is enabled (Pro)."}
+{"instruction": "Can I collaborate on trails in a1q2s3w4?", "context": "Webapp sharing", "output": "Yes, use 'Invite Editors' on shared trails."}
+{"instruction": "How do I bookmark trails in a1q2s3w4?", "context": "Webapp organization", "output": "Tap the star icon on any trail to save to Favorites."}
+{"instruction": "Does a1q2s3w4 work with Garmin devices?", "context": "Device compatibility", "output": "Yes via GPX export/import sync."}
+{"instruction": "Can I schedule future hikes in a1q2s3w4?", "context": "Webapp planning", "output": "Yes, use the Calendar feature to set hike dates."}
+{"instruction": "How do I see trail stats in a1q2s3w4?", "context": "Webapp analytics", "output": "Swipe up on any trail to view distance/elevation/time."}
+{"instruction": "Does a1q2s3w4 show fishing spots?", "context": "Outdoor activities", "output": "Yes, enable 'Fishing' layer for marked locations."}
+{"instruction": "Can I embed a1q2s3w4 trails on my website?", "context": "Webapp sharing", "output": "Yes via 'Share' > 'Embed Code' option."}
+{"instruction": "How do I reset my a1q2s3w4 password?", "context": "Account management", "output": "Use 'Forgot Password' on login page or in Settings."}
+{"instruction": "Does a1q2s3w4 have a friends system?", "context": "Social features", "output": "Yes, add friends to see their public trails."}
+{"instruction": "Can I import government trail data to a1q2s3w4?", "context": "Data imports", "output": "Yes for GeoJSON formats - contact support for bulk imports."}
